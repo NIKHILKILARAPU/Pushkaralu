@@ -1,1 +1,1 @@
-# Pushkaralu dandam pttukoni dengeyandi
+# Pushkaralu dandam pttukondi
