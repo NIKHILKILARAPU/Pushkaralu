@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'config.php';
 
 
 $createTable = "CREATE TABLE IF NOT EXISTS transport (
